@@ -1,10 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:00F5FF,50:7B2FF7,100:111827&text=SHIVAM%20KOTADIYA&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=60&animation=fadeIn" />
+<!-- ANIMATED HEADER -->
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=2000&pause=800&color=00F7FF&center=true&vCenter=true&width=650&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer;Turning+Ideas+Into+Reality;Code.+Create.+Innovate.+Repeat." />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00F5FF,50:7B2FF7,100:111827&text=SHIVAM%20KOTADIYA&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20FULL%20STACK%20DEVELOPER&descSize=18&descAlignY=60&animation=fadeIn" />
+
+<!-- MAIN TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&duration=1800&pause=700&color=00F7FF&center=true&vCenter=true&width=700&lines=Hello+World!+I'm+Shivam+%F0%9F%91%8B;AI+%2B+Full+Stack+Developer;Turning+Ideas+Into+Reality;Building+The+Future+One+Line+At+A+Time;Code.+Create.+Innovate.+Repeat." />
 
 <br>
+
+<!-- PROFILE BADGES -->
 
 <a href="https://github.com/shivam-kotadiya">
 <img src="https://img.shields.io/badge/GitHub-shivam--kotadiya-111827?style=for-the-badge&logo=github&logoColor=00F7FF" />
@@ -20,23 +26,29 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=35&duration=1800&pause=600&color=00F7FF&center=true&vCenter=true&width=700&height=70&lines=%3E+HELLO_WORLD%28%29;%3E+SYSTEM.ONLINE;%3E+SHIVAM.EXE+INITIALIZED;%3E+WELCOME+TO+MY+GITHUB" />
+<!-- TYPING ANIMATION -->
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=30&duration=1500&pause=500&color=00F7FF&center=true&vCenter=true&width=750&height=70&lines=%3E+HELLO_WORLD%28%29;%3E+SYSTEM.ONLINE;%3E+SHIVAM.EXE+INITIALIZED;%3E+WELCOME+TO+MY+GITHUB;%3E+ACCESS_GRANTED..." />
 
 <br>
 
+<!-- SYSTEM ANIMATION -->
+
 ```text
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║          > HELLO_WORLD()                         ║
-║                                                  ║
-║          SYSTEM      : ONLINE                    ║
-║          DEVELOPER   : SHIVAM KOTADIYA           ║
-║          FOCUS       : AI × FULL STACK           ║
-║          STATUS      : BUILDING                  ║
-║                                                  ║
-║          [████████████████████] 100%             ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════╗
+║                                                      ║
+║              > SHIVAM.EXE INITIALIZED               ║
+║                                                      ║
+║   SYSTEM       : ONLINE                              ║
+║   DEVELOPER    : SHIVAM KOTADIYA                     ║
+║   FOCUS        : AI × FULL STACK                     ║
+║   STATUS       : BUILDING                            ║
+║                                                      ║
+║   LOADING... ████████████████████████ 100%           ║
+║                                                      ║
+║   [ CONNECTION ESTABLISHED ]                         ║
+║                                                      ║
+╚══════════════════════════════════════════════════════╝
 ```
 
 </div>
@@ -72,10 +84,13 @@ class Shivam:
     motto = "Learn. Build. Improve."
 ```
 
-* 🚀 Exploring **Artificial Intelligence**
+### 🚀 What I'm Doing
+
+* 🤖 Exploring **Artificial Intelligence**
 * 🌐 Learning **Full Stack Development**
-* 🧠 Improving problem-solving and programming skills
-* 💡 Building projects to learn through practice
+* 🧠 Improving problem-solving skills
+* 💻 Building projects through practice
+* 🔥 Learning new technologies
 * 🎯 Working toward a career in software development
 * 🎵 Music
 * 🏏 Sports
@@ -92,11 +107,13 @@ class Shivam:
 
 <div align="center">
 
-### Languages
+### 💻 LANGUAGES
 
 <img src="https://skillicons.dev/icons?i=python,c,cpp,html,css,js&theme=dark" />
 
-### Tools & Technologies
+<br><br>
+
+### 🛠️ TOOLS & TECHNOLOGIES
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,figma&theme=dark" />
 
@@ -108,7 +125,17 @@ class Shivam:
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Python+Programming;Web+Development;JavaScript;Artificial+Intelligence;Git+%26+GitHub;Problem+Solving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=1800&pause=500&color=00F7FF&center=true&vCenter=true&width=700&height=60&lines=%5B+01+%5D+Python+Programming;%5B+02+%5D+Web+Development;%5B+03+%5D+JavaScript;%5B+04+%5D+Artificial+Intelligence;%5B+05+%5D+Git+%26+GitHub;%5B+06+%5D+Problem+Solving" />
+
+<br><br>
+
+```text
+PYTHON          ████████████████████░░  90%
+HTML / CSS      █████████████████████░  95%
+JAVASCRIPT      ███████████████░░░░░░  70%
+GIT / GITHUB    ████████████████░░░░░  80%
+AI              ██████████░░░░░░░░░░░  50%
+```
 
 </div>
 
@@ -146,6 +173,14 @@ shivam@github:~$ focus
 > Artificial Intelligence
 > Full Stack Development
 
+shivam@github:~$ skills
+
+> Python
+> C / C++
+> HTML / CSS
+> JavaScript
+> Git / GitHub
+
 shivam@github:~$ mission
 
 > Learn
@@ -154,7 +189,7 @@ shivam@github:~$ mission
 
 shivam@github:~$ status
 
-> [██████████] READY TO BUILD
+> [████████████████████] SYSTEM READY
 
 shivam@github:~$ _
 ```
@@ -167,21 +202,27 @@ shivam@github:~$ _
 
 <a href="https://github.com/shivam-kotadiya?tab=repositories">
 
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
+<img src="https://img.shields.io/badge/%E2%9A%A1%20EXPLORE%20MY%20PROJECTS-00F7FF?style=for-the-badge&logo=github&logoColor=black" />
 
 </a>
 
+<br><br>
+
+|         🚀 Project        |    💡 Status   |
+| :-----------------------: | :------------: |
+|     🤖 **AI Project**     | 🔄 Coming Soon |
+| 🌐 **Full Stack Project** | 🔄 Coming Soon |
+|   🐍 **Python Project**   | 🔄 Coming Soon |
+
 </div>
 
-<br>
+---
+
+## ⚡ SYSTEM STATUS
 
 <div align="center">
 
-|         🚀 Project        | 💡 Description |
-| :-----------------------: | :------------: |
-|     🤖 **AI Project**     |   Coming Soon  |
-| 🌐 **Full Stack Project** |   Coming Soon  |
-|   🐍 **Python Project**   |   Coming Soon  |
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=1200&pause=400&color=00F7FF&center=true&vCenter=true&width=650&height=100&lines=%5B+SYSTEM+%5D+ONLINE;%5B+AI+MODULE+%5D+LOADING...;%5B+FULL+STACK+%5D+ACTIVE;%5B+LEARNING+%5D+100%25+ACTIVE;%5B+MOTIVATION+%5D+UNLIMITED;%5B+STATUS+%5D+READY+TO+BUILD" />
 
 </div>
 
@@ -189,66 +230,17 @@ shivam@github:~$ _
 
 ## 🎯 MY MISSION
 
-```text
-                    SHIVAM.EXE
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   KEEP LEARNING │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │   BUILD PROJECTS│
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ SOLVE PROBLEMS  │
-              └────────┬────────┘
-                       │
-                       ▼
-              ┌─────────────────┐
-              │ BECOME BETTER   │
-              └─────────────────┘
-```
-
----
-
-## 📈 DEVELOPMENT JOURNEY
-
 <div align="center">
 
 ```text
-Python              ████████████████░░░░  80%
-HTML / CSS          ███████████████░░░░░  75%
-C / C++             ████████████░░░░░░░░  60%
-JavaScript          ██████████░░░░░░░░░░  50%
-Git & GitHub        ████████████░░░░░░░░  60%
-AI                  ██████░░░░░░░░░░░░░░  Learning
-Full Stack          ██████░░░░░░░░░░░░░░  Learning
+                       ┌───────────────┐
+                       │   SHIVAM.EXE  │
+                       └───────┬───────┘
+                               │
+                               ▼
+                    ┌──────────────────┐
+                    │  KEEP LEARNING   │
+                    └────────┬─────────┘
+                             │
+                             ▼
 ```
-
-</div>
-
----
-
-## 🌌 DEVELOPER MINDSET
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2200&pause=800&color=BD93F9&center=true&vCenter=true&width=600&lines=Think+%E2%86%92+Code+%E2%86%92+Test+%E2%86%92+Improve;Small+Progress+Every+Day;Build+Something+Meaningful;Never+Stop+Learning" />
-
-</div>
-
----
-
-<div align="center">
-
-### ⚡ CODE • CREATE • INNOVATE • REPEAT ⚡
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,50:7B2FF7,100:00F5FF&height=140&section=footer&animation=fadeIn" />
-
-</div>
